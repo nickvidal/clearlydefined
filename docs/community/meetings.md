@@ -16,9 +16,12 @@ https://bloomberg.zoom.us/j/99537607660?pwd=UHU0eXFXaWlYS3lySTlyd1c1NFhhZz09
 
 Slides:
 
-- [2026-03-02](/slides/ClearlyDefined-2026-03-02.pdf)
-- [2026-04-06](/slides/ClearlyDefined-2026-04-06.pdf)
+- 2026-08-03 (Break)
+- [2026-07-06](/slides/ClearlyDefined-2026-07-06.pdf)
+- [2026-06-01](/slides/ClearlyDefined-2026-06-01.pdf)
 - [2026-05-04](/slides/ClearlyDefined-2026-05-04.pdf)
+- [2026-04-06](/slides/ClearlyDefined-2026-04-06.pdf)
+- [2026-03-02](/slides/ClearlyDefined-2026-03-02.pdf)
 - 2026-02-02 (FOSDEM)
 - 2026-01-05 (New Year)
 - [2025-12-01](/slides/ClearlyDefined-2025-12-01.pdf)
@@ -48,6 +51,7 @@ https://docs.google.com/document/d/1m-1FnavQ73LvCHzsWI8tmqGZbnsAxewUuhrGtxWiJqs/
 ## Developer meetings
 
 Held every Wednesday at 10:00am U.S. Eastern time:
+(First meeting after summer break 2026 will be held August 12th)
 
 https://github.zoom.us/j/92059611723?pwd=QWNrS0FaWWtVam5ReU9LbzFuUDZRdz09
 
